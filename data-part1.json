@@ -1,0 +1,28 @@
+{
+  "points": [
+    { "id": 1, "latitude": 39.908823, "longitude": 116.397470, "width":24,"height":24 }
+  ],
+  "lines": [
+    {
+      "points": [
+        { "latitude": 39.908823, "longitude": 116.397470 },
+        { "latitude": 39.910566, "longitude": 116.401891 }
+      ],
+      "color": "#00BFFF",
+      "width": 4
+    }
+  ],
+  "polygons": [
+    {
+      "points": [
+        { "latitude": 39.908823, "longitude": 116.397470 },
+        { "latitude": 39.910566, "longitude": 116.397470 },
+        { "latitude": 39.910566, "longitude": 116.401891 },
+        { "latitude": 39.908823, "longitude": 116.397470 }
+      ],
+      "fillColor": "#00BFFF33",
+      "strokeColor": "#00BFFF",
+      "strokeWidth": 2
+    }
+  ]
+}
