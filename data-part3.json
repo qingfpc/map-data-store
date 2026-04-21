@@ -1,0 +1,35 @@
+{"points": [
+  {
+    "id": 1,
+    "latitude": 41.12484393,
+    "longitude": 126.18167508,
+    "iconPath": "/img/marker.png",
+    "width": 15,
+    "height": 15,
+    "anchor": { "x": 0.5, "y": 0.5 },
+    "callout": {
+      "content": "北门及城墙遗址",
+      "display": "BYCLICK",
+      "fontSize": "12",
+      "color": "#FF0000",
+      "bgColor": "transparent"}
+  },
+  {
+    "id": 2,
+    "latitude": 41.79937372400008,
+    "longitude": 123.4556830460001,
+    "iconPath": "/img/ycq.png",
+    "width": 18,
+    "height": 18,
+    "anchor": { "x": 0.5, "y": 0.5 },
+    "callout": {
+      "content": " 北京和沈阳的明清皇宫- \n 沈阳清朝皇宫 ",
+      "display": "BYCLICK",
+      "fontSize": "16",
+      "color": "#FF0000",
+      "borderWidth": "1",
+      "borderColor": "#FF0000",
+      "borderRadius": "5"}
+  }
+]
+}
