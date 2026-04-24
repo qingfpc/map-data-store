@@ -1742,7 +1742,7 @@
     "height": 14,
     "anchor": { "x": 0.5, "y": 0.5 },
     "callout": {
-      "content": " 中国南方喀斯特-荔波喀斯特- \n 环江喀斯特 ",
+      "content": " 中国南方喀斯特- \n 环江喀斯特 ",
       "display": "BYCLICK",
       "fontSize": 12,
       "color": "#FF0000",
